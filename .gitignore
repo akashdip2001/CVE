@@ -1,0 +1,31 @@
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Build artifacts
+dist/
+build/
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Dependencies
+node_modules/
+
+# Personal notes (keep CVE analysis only)
+notes/
+scratch/
