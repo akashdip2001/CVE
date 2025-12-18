@@ -1,5 +1,7 @@
 # CVE Analysis - 2025
 
+[<img align="right" alt="cve" width="300" src="https://github.com/user-attachments/assets/66218edb-30ed-4794-8599-fefb3b726013">](https://www.linkedin.com/posts/akashdip2001_ddos-cve-reactjs-activity-7405618977856618496-BxXv) 
+
 ## 📊 Overview
 
 This folder contains Critical Vulnerabilities and Exposures identified in 2025, with a focus on emerging threats in modern web frameworks and server-side JavaScript.
