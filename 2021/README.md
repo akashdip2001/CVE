@@ -27,6 +27,12 @@
 
 | CVE ID | CVSS Score | Software/Service | Description | Tags |
 |--------|------------|------------------|-------------|------|
+| To be populated | - | - | Additional medium severity vulnerabilities | - |
+
+## 🔴 Additional Critical Vulnerabilities
+
+| CVE ID | CVSS Score | Software/Service | Description | Tags |
+|--------|------------|------------------|-------------|------|
 | [CVE-2021-22205](https://nvd.nist.gov/vuln/detail/CVE-2021-22205) | 10.0 | GitLab | RCE via Image Upload | `GitLab`, `CI/CD`, `RCE` |
 
 ## 🔍 Notable CVE Deep Dive

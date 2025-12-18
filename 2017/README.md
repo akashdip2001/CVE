@@ -8,7 +8,6 @@
 
 | CVE ID | CVSS Score | Software/Service | Description | Tags |
 |--------|------------|------------------|-------------|------|
-| [CVE-2017-0144](https://nvd.nist.gov/vuln/detail/CVE-2017-0144) | 8.1 | Windows SMBv1 | EternalBlue - WannaCry | `Windows`, `SMB`, `Ransomware`, `RCE` |
 | [CVE-2017-5638](https://nvd.nist.gov/vuln/detail/CVE-2017-5638) | 10.0 | Apache Struts 2 | RCE via Content-Type | `Java`, `Web Framework`, `Equifax Breach` |
 | [CVE-2017-0199](https://nvd.nist.gov/vuln/detail/CVE-2017-0199) | 7.8 | Microsoft Office | HTA Handler RCE | `Microsoft`, `Office`, `RCE` |
 | [CVE-2017-11882](https://nvd.nist.gov/vuln/detail/CVE-2017-11882) | 7.8 | Microsoft Office | Memory Corruption | `Microsoft`, `Office`, `Equation Editor` |
@@ -18,6 +17,7 @@
 
 | CVE ID | CVSS Score | Software/Service | Description | Tags |
 |--------|------------|------------------|-------------|------|
+| [CVE-2017-0144](https://nvd.nist.gov/vuln/detail/CVE-2017-0144) | 8.1 | Windows SMBv1 | EternalBlue - WannaCry | `Windows`, `SMB`, `Ransomware`, `RCE` |
 | [CVE-2017-0143](https://nvd.nist.gov/vuln/detail/CVE-2017-0143) | 8.1 | Windows SMBv1 | EternalBlue Variant | `Windows`, `SMB`, `RCE` |
 | [CVE-2017-8464](https://nvd.nist.gov/vuln/detail/CVE-2017-8464) | 7.8 | Windows LNK | LNK File RCE | `Windows`, `USB`, `RCE` |
 | [CVE-2017-7494](https://nvd.nist.gov/vuln/detail/CVE-2017-7494) | 10.0 | Samba | SambaCry RCE | `Linux`, `Samba`, `RCE` |

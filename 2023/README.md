@@ -27,7 +27,7 @@ This folder contains Critical Vulnerabilities and Exposures identified in 2023, 
 
 | CVE ID | CVSS Score | Software/Service | Description | Tags |
 |--------|------------|------------------|-------------|------|
-| [CVE-2023-0001](https://nvd.nist.gov/vuln/detail/CVE-2023-0001) | 5.3 | Various | Information Disclosure | `Generic`, `Info Leak` |
+| To be populated | - | - | Additional medium severity vulnerabilities | - |
 
 ## 🔍 Notable CVE Deep Dive
 

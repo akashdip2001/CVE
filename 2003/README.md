@@ -41,7 +41,7 @@
 SQL Slammer (also known as Sapphire) exploited a buffer overflow in Microsoft SQL Server's Resolution Service. The worm was only 376 bytes and resided entirely in memory, making it extremely fast at spreading. It doubled infected hosts approximately every 8.5 seconds, reaching peak infection in under 10 minutes.
 
 #### Historical Context
-While this CVE was assigned in 2002, SQL Slammer struck on **January 25, 2003**, becoming one of the most significant worm outbreaks in internet history.
+**Note**: While this CVE was assigned in 2002 (CVE-2002-0649), the SQL Slammer worm attack occurred on **January 25, 2003**. This analysis appears in the 2003 folder because the major security impact and global outbreak happened in 2003, making it one of the most significant security events of that year. The vulnerability existed in 2002, but its historical significance is tied to the 2003 attack.
 
 #### Infection Timeline
 

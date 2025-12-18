@@ -22,13 +22,14 @@ CVEs are categorized using CVSS (Common Vulnerability Scoring System) scores:
 | 4.0 - 6.9   | 🟡 Medium | Yellow |
 | 0.1 - 3.9   | 🟢 Low | Green |
 
-## 📁 Year Coverage
+## 📁 Year Coverage (2000-2024)
 
 ```
 CVE/
 ├── 2000/
 ├── 2001/
-├── ...
+├── 2002/
+├── ... (2003-2022)
 ├── 2023/
 └── 2024/
 ```

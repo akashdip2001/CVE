@@ -8,7 +8,6 @@
 
 | CVE ID | CVSS Score | Software/Service | Description | Tags |
 |--------|------------|------------------|-------------|------|
-| [CVE-2014-0160](https://nvd.nist.gov/vuln/detail/CVE-2014-0160) | 7.5 | OpenSSL | Heartbleed - Memory Disclosure | `OpenSSL`, `TLS`, `Memory Leak`, `Encryption` |
 | [CVE-2014-6271](https://nvd.nist.gov/vuln/detail/CVE-2014-6271) | 10.0 | Bash | Shellshock RCE | `Bash`, `Linux`, `Unix`, `RCE` |
 | [CVE-2014-7169](https://nvd.nist.gov/vuln/detail/CVE-2014-7169) | 10.0 | Bash | Shellshock Incomplete Fix | `Bash`, `Linux`, `Unix`, `RCE` |
 | [CVE-2014-0224](https://nvd.nist.gov/vuln/detail/CVE-2014-0224) | 6.8 | OpenSSL | MITM CCS Injection | `OpenSSL`, `TLS`, `MITM` |
@@ -18,6 +17,7 @@
 
 | CVE ID | CVSS Score | Software/Service | Description | Tags |
 |--------|------------|------------------|-------------|------|
+| [CVE-2014-0160](https://nvd.nist.gov/vuln/detail/CVE-2014-0160) | 7.5 | OpenSSL | Heartbleed - Memory Disclosure | `OpenSSL`, `TLS`, `Memory Leak`, `Encryption` |
 | [CVE-2014-4877](https://nvd.nist.gov/vuln/detail/CVE-2014-4877) | 8.3 | GNU Wget | Symlink Attack | `Linux`, `Wget`, `File System` |
 | [CVE-2014-1776](https://nvd.nist.gov/vuln/detail/CVE-2014-1776) | 9.3 | Internet Explorer | Use-After-Free RCE | `Microsoft`, `IE`, `RCE` |
 | [CVE-2014-8361](https://nvd.nist.gov/vuln/detail/CVE-2014-8361) | 9.0 | Realtek SDK | Multiple Router Backdoors | `Router`, `IoT`, `Backdoor` |

@@ -25,7 +25,7 @@ This folder contains Critical Vulnerabilities and Exposures identified in 2024, 
 
 | CVE ID | CVSS Score | Software/Service | Description | Tags |
 |--------|------------|------------------|-------------|------|
-| [CVE-2024-0001](https://nvd.nist.gov/vuln/detail/CVE-2024-0001) | 6.5 | Various | Information Disclosure | `Generic`, `Info Leak` |
+| To be populated | - | - | Additional medium severity vulnerabilities | - |
 
 ## 🔍 Notable CVE Deep Dive
 
