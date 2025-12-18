@@ -22,7 +22,7 @@ CVEs are categorized using CVSS (Common Vulnerability Scoring System) scores:
 | 4.0 - 6.9   | 🟡 Medium | Yellow |
 | 0.1 - 3.9   | 🟢 Low | Green |
 
-## 📁 Year Coverage (2000-2024)
+## 📁 Year Coverage (2000-2025)
 
 ```
 CVE/
@@ -31,13 +31,15 @@ CVE/
 ├── 2002/
 ├── ... (2003-2022)
 ├── 2023/
-└── 2024/
+├── 2024/
+└── 2025/
 ```
 
 ## 🔍 Quick Navigation
 
-- [2024 CVEs](./2024/) - Latest vulnerabilities
-- [2023 CVEs](./2023/) - Previous year
+- [2025 CVEs](./2025/) - Latest vulnerabilities (Next.js Server Actions RCE)
+- [2024 CVEs](./2024/) - Previous year
+- [2023 CVEs](./2023/)
 - [2022 CVEs](./2022/)
 - [2021 CVEs](./2021/)
 - [2020 CVEs](./2020/)
@@ -81,5 +83,5 @@ This repository is for educational and research purposes only. Information is co
 
 ---
 
-**Last Updated**: 2024
+**Last Updated**: 2025
 **Maintainer**: akashdip2001
