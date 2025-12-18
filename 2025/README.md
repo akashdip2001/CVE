@@ -600,6 +600,8 @@ graph LR
 - [NVD 2025 Vulnerabilities](https://nvd.nist.gov/vuln/search/results?isCpeNameSearch=false&pub_start_date=01/01/2025&pub_end_date=12/31/2025)
 - [Next.js Security Documentation](https://nextjs.org/docs/app/building-your-application/authentication)
 - [OWASP Top 10 2025](https://owasp.org/www-project-top-ten/)
+- [exploit 0](https://gist.github.com/akshaymarch7/65c8b5ed2f0b19ca9b480b55da38f809)
+- [exploit 1](https://gist.github.com/akshaymarch7/1da1558d1a1a04e29ae50d0de7a360ad)
 
 ---
 
