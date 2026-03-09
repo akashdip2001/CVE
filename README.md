@@ -1,3 +1,15 @@
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+
+## [`BA - repo` for **vulnerabilities fix** `jira task`](https://github.com/AkashdipMahapatra-BA/fix-vulnerabilities/blob/main/fix-vulnerabilities.md)
+
+<img width="568" height="89" alt="531315277-dc1cb719-3eb3-4731-9ab5-97d06952ceda" src="https://github.com/user-attachments/assets/76d5b517-08cf-41de-9630-2e1132812abc" />
+
+</div>
+
+</br>
+</br>
+</br>
+
 # CVE Analysis Repository
 
 A comprehensive repository for tracking and analyzing Common Vulnerabilities and Exposures (CVEs) from 2000 to present. This repository serves as a knowledge base for security researchers, developers, and IT professionals to stay updated with the latest vulnerabilities in the tech world.
